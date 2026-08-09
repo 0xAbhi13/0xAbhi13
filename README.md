@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=2500&pause=700&color=00FFF7&center=true&vCenter=true&width=700&lines=I'm+Abhishek+Jadhav+%F0%9F%91%8B;I'm+%400xAbhi13+%E2%9A%A1;Frontend+Developer+%F0%9F%92%BB;Full+Stack+Builder+%F0%9F%9A%80;AI+%26+Computer+Vision+Explorer+%F0%9F%A4%96" alt="I'm Abhishek Jadhav">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=2500&pause=700&color=00FFF7&center=true&vCenter=true&width=700&lines=I'm+Abhishek+Jadhav+%F0%9F%91%8B;I'm+%400xAbhi13+%E2%9A%A1;Frontend+Developer+%F0%9F%92%BB;Full+Stack+Builder+%F0%9F%9A%80;AI+%26+Computer+Vision+Explorer+%F0%9F%A4%96" alt="Hi, I'm Abhishek Jadhav">
 
 ### Frontend Developer • Full Stack Builder • AI Explorer
 
@@ -115,15 +115,10 @@ An experimental computer-vision project exploring hand gestures for writing and 
 ---
 
 ## 🐍 Contribution Snake
-
+<!-- Snake Game Repo View -->
 <div align="center">
-
-<img src="https://raw.githubusercontent.com/0xAbhi13/0xAbhi13/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" width="100%">
-
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
 </div>
-
-> 🐍 The snake is generated automatically by the GitHub Actions workflow in this repository.
-
 ---
 
 ## 📊 GitHub Overview
