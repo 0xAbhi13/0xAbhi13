@@ -106,14 +106,6 @@ My personal developer portfolio showcasing my projects, skills and work.
 
 ---
 
-### ✋ AI Gesture Writing
-
-An experimental computer-vision project exploring hand gestures for writing and interacting with the screen.
-
-**Built with:** `Python` `OpenCV` `AI` `Computer Vision`
-
----
-
 ## 🐍 Contribution Snake
 <!-- Snake Game Repo View -->
 <div align="center">
