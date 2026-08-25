@@ -20,13 +20,19 @@
 </div>
 
 ---
+
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=0xabhi13&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
   <br> <br>
+ <div align="center">
+
   <img
-    src="https://trophy.ryglcloud.net/?username=0xAbhi13&theme=darkhub&column=6&margin-w=15&margin-h=15&title=Commits,Followers,Stars,Issues,PullRequest,Repositories"
+    src="https://trophy.ryglcloud.net/?username=0xAbhi13&theme=darkhub&column=4&margin-w=20&margin-h=15&title=Commits,Followers,Stars,Repositories"
+    width="650"
     alt="GitHub Trophies"
   />
+
+</div>
 </p>
 
 <br>
