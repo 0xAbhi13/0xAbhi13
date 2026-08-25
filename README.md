@@ -41,18 +41,32 @@ I enjoy creating **modern websites, useful tools and experimental projects**.
 > ⚡ **Build. Break. Learn. Rebuild. Ship.**
 
 ---
+<div align="center">
+  <img
+    src="./profile/trophy.svg"
+    height="150"
+    alt="GitHub Trophies"
+  />
+</div>
 
-## 🧠 What I'm Building
+<br>
 
-| ⚡ Area | 🚀 Focus |
-|:---:|:---|
-| 🌐 Web | Modern & interactive web applications |
-| 🎨 Frontend | HTML • CSS • JavaScript |
-| 🐍 Backend | Python • Flask • APIs |
-| 🤖 AI | Computer Vision & intelligent interfaces |
-| ✋ Gesture | Hand tracking & gesture interaction |
-| 📦 Open Source | Useful projects & experiments |
-
+<div align="center">
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/0xAbhi13/0xAbhi13/output/pacman-contribution-graph-dark.svg"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/0xAbhi13/0xAbhi13/output/pacman-contribution-graph.svg"
+    />
+    <img
+      src="https://raw.githubusercontent.com/0xAbhi13/0xAbhi13/output/pacman-contribution-graph.svg"
+      alt="Pac-Man Contribution Graph"
+    />
+  </picture>
+</div>
 ---
 
 ## 🛠️ Tech Stack
@@ -106,13 +120,6 @@ My personal developer portfolio showcasing my projects, skills and work.
 
 ---
 
-## 🐍 Contribution Snake
-<!-- Snake Game Repo View -->
-<div align="center">
-  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
-</div>
----
-
 ## 📊 GitHub Overview
 
 <div align="center">
@@ -121,27 +128,6 @@ My personal developer portfolio showcasing my projects, skills and work.
 ![Stars](https://img.shields.io/github/stars/0xAbhi13?style=for-the-badge&logo=github&label=TOTAL%20STARS)
 ![Repositories](https://img.shields.io/badge/Repositories-2-00FFF7?style=for-the-badge&logo=github&logoColor=black)
 ![Profile Views](https://komarev.com/ghpvc/?username=0xAbhi13&style=for-the-badge&color=00fff7&label=VIEWS)
-
-</div>
-
----
-
-## 🎯 Current Focus
-
-<div align="center">
-
-```text
-╔════════════════════════════════════════════════════╗
-║                                                    ║
-║  🌐 Modern Web Development                         ║
-║  🐍 Python & Flask                                 ║
-║  🤖 AI & Computer Vision                           ║
-║  ✋ Gesture-Based Interfaces                       ║
-║  ⚡ Interactive Frontend Experiences               ║
-║  📦 Open Source Projects                           ║
-║                                                    ║
-╚════════════════════════════════════════════════════╝
-```
 
 </div>
 
