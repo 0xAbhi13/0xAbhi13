@@ -1,4 +1,4 @@
-name: Update GitHub Profile Trophy
+name: Update GitHub Trophy
 
 on:
   workflow_dispatch:
@@ -13,15 +13,15 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Generate GitHub Trophy
-        uses: ryo-ma/github-profile-trophy-action@v0.2.2
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Generate trophy
+        uses: soulteary/github-profile-trophy-action@v1.0.0
         with:
-          github_user_name: 0xAbhi13
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          output_path: ./profile/trophy.svg
-          theme: darkhub
-          columns: 6
-          rows: 3
+          options: "username=0xAbhi13&theme=darkhub&column=6&row=2&margin-w=15&margin-h=15"
+          path: profile/trophy.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Commit trophy
         run: |
@@ -33,6 +33,6 @@ jobs:
           if git diff --cached --quiet; then
             echo "No changes"
           else
-            git commit -m "Update GitHub trophies"
+            git commit -m "Update GitHub Trophy"
             git push
           fi
