@@ -151,9 +151,5 @@ My personal developer portfolio showcasing my projects, skills and work.
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=00FFF7&center=true&vCenter=true&width=650&lines=Thanks+for+visiting+my+profile!+%F0%9F%91%8B;Keep+building.+Keep+learning.+%F0%9F%9A%80;See+you+in+the+next+commit!+%E2%9A%A1" alt="Footer Animation">
 
-<br><br>
-
-### ⚡ `0xAbhi13`
-
-**Building ideas into reality. 🚀**
-
+<br>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FFF7,100:0F2027&height=100&section=footer" width="100%"/> </div>
