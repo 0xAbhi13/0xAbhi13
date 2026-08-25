@@ -19,7 +19,7 @@ jobs:
       - name: Generate GitHub Trophy
         uses: soulteary/github-profile-trophy-action@v1.0.0
         with:
-          options: 'username=${{ github.repository_owner }}&theme=dracula&title=Stars,Commits,Followers,Repositories&rank=-?&column=4&row=1&margin-w=15&margin-h=15&no-bg=false&no-frame=false'
+          options: "username=${{ github.repository_owner }}&theme=dracula&column=6&row=3&margin-w=15&margin-h=15&no-bg=false&no-frame=false"
           path: profile/trophy.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
@@ -33,6 +33,6 @@ jobs:
           if git diff --cached --quiet; then
             echo "No changes to trophy.svg"
           else
-            git commit -m "chore: update GitHub trophy"
+            git commit -m "chore: update GitHub trophies"
             git push
           fi
