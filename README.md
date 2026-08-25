@@ -20,28 +20,9 @@
 </div>
 
 ---
-
-## 💫 About Me
-
-```text
-👋 I'm Abhishek Jadhav — aka 0xAbhi13.
-
-🎓 BCA Student
-🌐 Frontend Developer
-💻 Full Stack Builder
-🐍 Python & Flask Developer
-🤖 AI & Computer Vision Explorer
-✋ Gesture-Based Interface Enthusiast
-🚀 Building real-world projects
-📚 Always learning and experimenting
-```
-
-I enjoy creating **modern websites, useful tools and experimental projects**.
-
-> ⚡ **Build. Break. Learn. Rebuild. Ship.**
-
----
 <p align="center">
+  <img src="https://streak-stats.demolab.com?user=0xabhi13&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <br> <br>
   <img
     src="https://trophy.ryglcloud.net/?username=0xAbhi13&theme=darkhub&column=6&margin-w=15&margin-h=15&title=Commits,Followers,Stars,Issues,PullRequest,Repositories"
     alt="GitHub Trophies"
@@ -169,4 +150,7 @@ My personal developer portfolio showcasing my projects, skills and work.
 
 **Building ideas into reality. 🚀**
 
+</div>
+<div data-importer="border">
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
 </div>
