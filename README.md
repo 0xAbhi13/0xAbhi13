@@ -37,22 +37,6 @@
 
 <br>
 
-<div align="center">
-  <picture>
-    <source
-      media="(prefers-color-scheme: dark)"
-      srcset="https://raw.githubusercontent.com/0xAbhi13/0xAbhi13/output/pacman-contribution-graph-dark.svg"
-    />
-    <source
-      media="(prefers-color-scheme: light)"
-      srcset="https://raw.githubusercontent.com/0xAbhi13/0xAbhi13/output/pacman-contribution-graph.svg"
-    />
-    <img
-      src="https://raw.githubusercontent.com/0xAbhi13/0xAbhi13/output/pacman-contribution-graph.svg"
-      alt="Pac-Man Contribution Graph"
-    />
-  </picture>
-</div>
 ---
 
 ## 🛠️ Tech Stack
@@ -106,6 +90,23 @@ My personal developer portfolio showcasing my projects, skills and work.
 
 ---
 
+<div align="center">
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/0xAbhi13/0xAbhi13/output/pacman-contribution-graph-dark.svg"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/0xAbhi13/0xAbhi13/output/pacman-contribution-graph.svg"
+    />
+    <img
+      src="https://raw.githubusercontent.com/0xAbhi13/0xAbhi13/output/pacman-contribution-graph.svg"
+      alt="Pac-Man Contribution Graph"
+    />
+  </picture>
+</div>
+
 ## 📊 GitHub Overview
 
 <div align="center">
@@ -156,7 +157,3 @@ My personal developer portfolio showcasing my projects, skills and work.
 
 **Building ideas into reality. 🚀**
 
-</div>
-<div data-importer="border">
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
-</div>
