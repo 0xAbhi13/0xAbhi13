@@ -43,8 +43,7 @@ I enjoy creating **modern websites, useful tools and experimental projects**.
 ---
 <p align="center">
   <img
-    src="./profile/trophy.svg"
-    width="900"
+    src="https://trophy.ryglcloud.net/?username=0xAbhi13&theme=darkhub&column=6&margin-w=15&margin-h=15"
     alt="GitHub Trophies"
   />
 </p>
