@@ -41,13 +41,13 @@ I enjoy creating **modern websites, useful tools and experimental projects**.
 > ⚡ **Build. Break. Learn. Rebuild. Ship.**
 
 ---
-<div align="center">
+<p align="center">
   <img
     src="./profile/trophy.svg"
-    height="150"
+    width="900"
     alt="GitHub Trophies"
   />
-</div>
+</p>
 
 <br>
 
