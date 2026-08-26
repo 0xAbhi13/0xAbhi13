@@ -107,17 +107,6 @@ My personal developer portfolio showcasing my projects, skills and work.
   </picture>
 </div>
 
-## 📊 GitHub Overview
-
-<div align="center">
-
-![Followers](https://img.shields.io/github/followers/0xAbhi13?style=for-the-badge&logo=github&label=FOLLOWERS)
-![Stars](https://img.shields.io/github/stars/0xAbhi13?style=for-the-badge&logo=github&label=TOTAL%20STARS)
-![Repositories](https://img.shields.io/badge/Repositories-2-00FFF7?style=for-the-badge&logo=github&logoColor=black)
-![Profile Views](https://komarev.com/ghpvc/?username=0xAbhi13&style=for-the-badge&color=00fff7&label=VIEWS)
-
-</div>
-
 ---
 
 ## 💡 Developer Philosophy
