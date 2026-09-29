@@ -87,16 +87,6 @@ I work across **frontend, backend, and AI**, with a focus on building practical 
 
 ## 🚀 Featured Projects
 
-### 📚 0xAbhi Source Code Library
-
-A platform for discovering and downloading useful source-code projects.
-
-**Built with:** `HTML` `CSS` `JavaScript` `PHP` `MySQL`
-
-🌐 **Live:** https://0xabhi-source-code-library.unaux.com/
-
----
-
 ### 🌐 My Portfolio
 
 My personal developer portfolio showcasing my projects, skills and work.
